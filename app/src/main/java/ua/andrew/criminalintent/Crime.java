@@ -9,7 +9,7 @@ public class Crime {
     private Date mDate;
     private boolean mSolved;
 
-    public boolean isSolved(boolean isChecked) {
+    public boolean isSolved() {
         return mSolved;
     }
 
